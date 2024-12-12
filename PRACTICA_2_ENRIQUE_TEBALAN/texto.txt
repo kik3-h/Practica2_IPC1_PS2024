@@ -1,0 +1,53 @@
+
+NOMBRE JUGADOR 1:ASDFAS
+
+NOMBRE JUGADOR 1:ASDFADS
+
+Hora: 22
+
+Minutos: 55
+
+Segundos: 15
+
+Fecha: 10/04/2024 22:55:15
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:asdf
+
+NOMBRE JUGADOR 1:asdf kikeee
+
+Hora: 23
+
+Minutos: 16
+
+Segundos: 9
+
+Fecha: 10/04/2024 23:16:09
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:
+
+NOMBRE JUGADOR 1:
+
+Hora: 17
+
+Minutos: 51
+
+Segundos: 56
+
+Fecha: 07/10/2024 17:51:56
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:asdf
+
+NOMBRE JUGADOR 1:asdf
+
+Hora: 17
+
+Minutos: 52
+
+Segundos: 42
+
+Fecha: 07/10/2024 17:52:42
+
+-------------------------------------------------------------

@@ -1,0 +1,66 @@
+
+NOMBRE JUGADOR 1:DZfds
+
+NOMBRE JUGADOR 1:sadf kikw
+
+Hora: 23
+
+Minutos: 18
+
+Segundos: 45
+
+Fecha: 10/04/2024 23:18:45
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:asdfa kieks melbin
+
+NOMBRE JUGADOR 1:asdfa
+
+Hora: 23
+
+Minutos: 20
+
+Segundos: 49
+
+Fecha: 10/04/2024 23:20:49
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:ENRIQUE
+
+NOMBRE JUGADOR 1:MOISES
+
+Hora: 23
+
+Minutos: 35
+
+Segundos: 35
+
+Fecha: 10/04/2024 23:35:35
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:KIKES
+
+NOMBRE JUGADOR 1:HECTOR
+
+Hora: 11
+
+Minutos: 3
+
+Segundos: 35
+
+Fecha: 12/04/2024 11:03:35
+
+-------------------------------------------------------------
+NOMBRE JUGADOR 1:
+
+NOMBRE JUGADOR 1:
+
+Hora: 11
+
+Minutos: 11
+
+Segundos: 47
+
+Fecha: 12/04/2024 11:11:47
+
+-------------------------------------------------------------
